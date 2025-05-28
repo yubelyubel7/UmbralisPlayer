@@ -24,6 +24,7 @@
 */
 var myPlaylists = {
     "UmbralisOST": 'PLbbD9YVwxN1OqO4E90NcE72QkYwTri8KK',
+    "GameOSTs": 'PLyo74dkSc2HCKNmORHIXk1J',
     //"ANOTHER PLAYLIST": 'PLZyqOyXxaVETqpHhT_c5GPmAPzhJpJ5K7',
 };
 
